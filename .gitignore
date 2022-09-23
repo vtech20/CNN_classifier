@@ -134,3 +134,7 @@ dmypy.json
 *.zip
 artifacts/prepare_base_model/base_model.h5
 artifacts/prepare_base_model/base_model_updated.h5
+artifacts/prepare_callbacks/checkpoint_dir/model.h5
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-09-23-12-07-07/train/*
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-09-23-12-07-07/validation/*
+artifacts/training/model.h5
